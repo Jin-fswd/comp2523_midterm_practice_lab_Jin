@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/node": "^20.11.19",
+    "ts-node": "^10.9.2"
+  },
+  "name": "midterm_prac",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "ts-node myApp.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
